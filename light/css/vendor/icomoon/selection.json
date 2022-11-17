@@ -39541,19 +39541,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "unfold_less"
+          "Rakesh_less"
         ],
         "defaultCode": 58838,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "unfold_less",
+        "ligatures": "Rakesh_less",
         "id": 785,
         "order": 796,
         "prevSize": 24,
         "code": 58838,
-        "name": "unfold_less"
+        "name": "Rakesh_less"
       },
       "setIdx": 2,
       "setId": 2,
@@ -39568,19 +39568,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "unfold_more"
+          "Rakesh_more"
         ],
         "defaultCode": 58839,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "unfold_more",
+        "ligatures": "Rakesh_more",
         "id": 786,
         "order": 797,
         "prevSize": 24,
         "code": 58839,
-        "name": "unfold_more"
+        "name": "Rakesh_more"
       },
       "setIdx": 2,
       "setId": 2,
