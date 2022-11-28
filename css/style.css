@@ -772,6 +772,7 @@ a, a:hover {
 }
 
 .cover-v1 .subheading {
+  margin-top: 150px;
   font-size: 33px;
   color: #fff;
 }
