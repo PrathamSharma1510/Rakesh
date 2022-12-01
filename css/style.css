@@ -773,7 +773,8 @@ a, a:hover {
 
 .cover-v1 .subheading {
   margin-top: 150px;
-  font-size: 33px;
+  font-size: 27px;
+  /* background-color: rgb(30, 10, 10); */
   color: #fff;
 }
 
